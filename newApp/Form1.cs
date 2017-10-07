@@ -24,7 +24,7 @@ namespace newApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello, welcome to the new program");
+            MessageBox.Show("Hello, welcome to the new program, this is cool");
         }
     }
 }
