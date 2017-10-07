@@ -26,5 +26,10 @@ namespace newApp
         {
             MessageBox.Show("Hello, welcome to the new program, this is cool");
         }
+        
+        private void sayHello() 
+        {
+        MessageBox.Show("Hello New User!", "New User", MessageBoxButtons.OK, MessageBoxIcon.INFORMATION);
+        }
     }
 }
